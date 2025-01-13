@@ -7,6 +7,9 @@
     "build": "npm install && npm install -- prefix frontend && npm run build -- prefix frontend",
     "start": "cross-env NODE_ENV=production node Backend/server.js"
   },
+  "engines": {
+  "node": "18.20.5"
+},
   "type": "module",
   "keywords": [],
   "author": "",
