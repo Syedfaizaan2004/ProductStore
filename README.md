@@ -14,7 +14,7 @@ npm install (this will help to install all the dependences.)
 
 npm run start (to run the server)
 
-make you .env file in root directries and put your mongodb string and port as mentioned below
+make your .env file in root directory and put your mongodb string and port as mentioned below
 
 MONGO_URI=<your_link>
 
